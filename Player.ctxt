@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=Player(World)
+comment1.params=name\ world
+comment1.target=Player(java.lang.String,\ World)
+comment2.params=room
+comment2.target=void\ setCurrentRoom(Room)
+comment3.params=
+comment3.target=Room\ getCurrentRoom()
+comment4.params=turn
+comment4.target=void\ dispatch(Command)
+comment5.params=turn
+comment5.target=void\ actionTravel(Command)
+comment6.params=
+comment6.target=void\ actionLookRoom()
+comment7.params=i
+comment7.target=void\ pickUpItem(item)
+comment8.params=
+comment8.target=void\ useItem()
+numComments=9

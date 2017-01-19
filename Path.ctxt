@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=source\ target\ dir
+comment0.target=Path(Room,\ Room,\ java.lang.String)
+comment1.params=source
+comment1.target=void\ setSource(Room)
+comment2.params=
+comment2.target=Room\ getSource()
+comment3.params=target
+comment3.target=void\ setTarget(Room)
+comment4.params=
+comment4.target=Room\ getTarget()
+comment5.params=direction
+comment5.target=void\ setDirection(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDirection()
+comment7.params=
+comment7.target=Room\ travelDestination()
+numComments=8

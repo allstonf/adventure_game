@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ d\ p
+comment0.target=PortalRoom(java.lang.String,\ java.lang.String,\ World)
+comment1.params=
+comment1.target=boolean\ enterRoom()
+numComments=2
